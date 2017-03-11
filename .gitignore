@@ -6,7 +6,7 @@
 
 # dependencies
 /node_modules
-/src/assets/bower_components
+/assets/bower_components
 
 # IDEs and editors
 /.idea
@@ -15,6 +15,7 @@
 .c9/
 *.launch
 .settings/
+*.sublime-workspace
 
 # IDE - VSCode
 .vscode/*
@@ -31,8 +32,6 @@
 npm-debug.log
 testem.log
 /typings
-/cordova/platforms
-/cordova/plugins
 
 # e2e
 /e2e/*.js
