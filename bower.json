@@ -17,10 +17,9 @@
     "tests"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#^1.7.0",
-    "webcomponentsjs": "^0.7.23",
-    "elements": "Polymer/elements",
-    "paper-date-picker": "polymer-paper-date-picker#^1.2.0"
+    "polymer": "Polymer/polymer#^1.8.1",
+    "webcomponentsjs": "^0.7.24",
+    "elements": "Polymer/elements"
   },
   "resolutions": {
     "firebase": "^3.0"
